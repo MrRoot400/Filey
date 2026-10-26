@@ -11,7 +11,7 @@ Filey Version 1.1.12
 1.Better Smoothnes
 2.Better Design
 
-## What is files ? 
+## What is Filey ? 
 Filey is an file manager made mainly for windows 
 and can manage your files Like renaming it more easy 
 ore an inbuild Code Editor 
